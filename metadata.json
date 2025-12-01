@@ -1,0 +1,5 @@
+{
+  "name": "GiggleGen - 爆笑生成器",
+  "description": "一个为你消除烦恼的Web应用，使用Google Gemini和Veo模型生成独一无二的笑话、梗图和搞笑视频。",
+  "requestFramePermissions": []
+}
